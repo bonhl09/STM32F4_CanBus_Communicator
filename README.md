@@ -9,4 +9,6 @@ How to hook up the board:
 
 	3) Hookup the MCP2551 to a differential bus in order to reduce the possibility of noise interfering with any signals
 
+This code was developed using the KEIL UVision IDE. Due to potential copyright issues only the source code has been included.
+
 Note: This code can easily be modified to transmit or receive different signals and is free to use
