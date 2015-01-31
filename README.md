@@ -2,8 +2,8 @@
 This repository contains code that operates the CanBus controller on the STM32F4 microcontroller
 
 How to hook up the board:
-	1) Connect the STM32F4 CanBus to a MCP2551 High-Speed Can Transceiver.
-	   Look at http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf for wiring details
+
+	1) Connect the STM32F4 CanBus to a MCP2551 High-Speed Can Transceiver.Look at http://ww1.microchip.com/downloads/en/DeviceDoc/21667f.pdf for wiring details
 	
 	2) Enable a slew rate of 24 V/us on the Can Transceiver by connecting RS to GND through a 10K resistor.  
 
